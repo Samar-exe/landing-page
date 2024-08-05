@@ -41,9 +41,30 @@
 .info {
 	display: flex;
 	justify-content: space-evenly;
+	align-items: center;
+}
+
+.info h1 {
+	font-size: 48px;
+}
+
+.info p {
+	font-size: 18px;
+	color: #e5e7eb;
+}
+
+.info button {
+	font-size: 18px;
+	width: 10vw;
+	background-color: #3882f6;
+	border: 0;
+	border-radius: 5px;
+	padding: 0.5rem;
+	color: #f9faf8;
+	font-weight: bold;
 }
 
 .image-container img {
-	width: 20vw;
+	width: 30vw;
 	height: 30vh;
 }
