@@ -9,6 +9,7 @@
 .main-section {
 	background-color: #1f2937;
 	color: #f9faf8;
+	padding-bottom: 15vh;
 }
 
 .navbar {
@@ -101,7 +102,16 @@
 	align-items: center;
 }
 
+.card-section h1 {
+	font-size: 36px;
+	font-weight: bolder;
+	color: #1f2937;
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+}
+
 .cards {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
+	gap: 20px;
 }
