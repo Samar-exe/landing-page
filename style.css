@@ -179,3 +179,12 @@
 	width: 8vw;
 	height: 6vh;
 }
+
+.footer {
+	background-color: #1f2937;
+	color: #f9faf8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 15vh;
+}
