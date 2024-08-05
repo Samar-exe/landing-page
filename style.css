@@ -75,6 +75,11 @@
 	text-align: center;
 }
 
+.info button:hover {
+	background-color: #f9faf8;
+	color: #3882f6;
+}
+
 .text-container {
 	display: flex;
 	flex-direction: column;
@@ -178,6 +183,13 @@
 	border-radius: 5px;
 	width: 8vw;
 	height: 6vh;
+}
+
+
+.banner-btn:hover {
+
+	background-color: #f9faf8;
+	color: #3882f6;
 }
 
 .footer {
