@@ -37,3 +37,8 @@
 	font-size: 18px;
 	color: #e5e7eb;
 }
+
+.image-container img {
+	width: 20vw;
+	height: 30vh;
+}
