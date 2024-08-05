@@ -93,3 +93,15 @@
 	width: 35vw;
 	height: 41vh;
 }
+
+.card-section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+}
