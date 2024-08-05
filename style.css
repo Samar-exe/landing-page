@@ -81,7 +81,15 @@
 	align-items: start;
 }
 
+.image-container {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 40vw;
+	height: 45vh;
+}
+
 .image-container img {
-	width: 30vw;
-	height: 30vh;
+	width: 35vw;
+	height: 41vh;
 }
