@@ -38,6 +38,11 @@
 	color: #e5e7eb;
 }
 
+.info {
+	display: flex;
+	justify-content: space-evenly;
+}
+
 .image-container img {
 	width: 20vw;
 	height: 30vh;
