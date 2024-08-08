@@ -92,8 +92,10 @@
 
 .image-container {
 	display: flex;
+	flex-direction: column;
 	justify-content: flex-start;
 	align-items: center;
+	gap: 2vh;
 	width: 40vw;
 	height: 45vh;
 }
@@ -101,6 +103,16 @@
 .image-container img {
 	width: 35vw;
 	height: 41vh;
+	border-radius: 10px;
+}
+
+.image-container img:hover {
+	box-shadow: 2px 1px 10px 0px white;
+}
+
+.image-container p {
+	font-style: "Roboto";
+	font-size: 0.8rem;
 }
 
 .card-section {
